@@ -1,1 +1,1 @@
-# decode-bigip-cookie
+# Decode BIGIP Cookie
